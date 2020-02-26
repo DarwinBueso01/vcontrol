@@ -1,11 +1,11 @@
 1. Explain what the terminal is in your own words.
 
-	-Terminal is basically used to control and modify the files or any other information in in your computer.
+	-Terminal is basically used to control and modify the files or any other information in in your computer.Terminal allows you to control your computer faster and efficiently You play games using terminal. Creates multiple hidden files and folders and you can also copy files from one folder to another. 
 
 2. What is the major difference between Git and Github?
 
-	-Git is a storage of files. Github is the online tool developers use to post their 	information.
+	-Git is a storage of files or a version control system that keeps track of changes is a code source. Github is the online tool developers use to post their information and share a project that later on mulptiple people can edit it wihtout having to change the original copy.
 
 3. Why do we use Github?
 
-	-We use Github because it allows people to work in the same project with their own 	copy or part.
+	-We use Github because it allows people to work in the same project with their own copy or part. Github is more effective when it comes to big projects. Everyone is able to work and edit their own copy without breaking the original copy.
